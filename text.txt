@@ -1,0 +1,2 @@
+cd C:\working_proiects\tests-md
+https://pdftotext.com/ru/
